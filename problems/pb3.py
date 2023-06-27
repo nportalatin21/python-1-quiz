@@ -1,4 +1,6 @@
 def youngest_student(students):
+
+    return min(students)
     pass # TODO:
 
 
